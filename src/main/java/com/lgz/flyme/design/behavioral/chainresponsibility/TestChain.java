@@ -1,7 +1,5 @@
 package com.lgz.flyme.design.behavioral.chainresponsibility;
 
-import com.sun.org.apache.bcel.internal.generic.NEW;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedList;
